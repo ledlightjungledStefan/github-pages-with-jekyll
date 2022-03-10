@@ -13,4 +13,4 @@ github_username:  ledlightjungledStefan
 
 show_excerpts: true # set to false to remove excerpts on the homepage
   name: About
-- link: /github-pages-with-jekyll/about.markdown
+- link: /github-pages-with-jekyll/about.html
